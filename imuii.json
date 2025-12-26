@@ -1,0 +1,11 @@
+{
+  "name": "daffaraihanfsd",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "daffaraihanfsd",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_dba9672dad3b36f81cda1158aa43df29f12257b1c709db285ed8e0655f81e422",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/daffaraihanfsd-7aa61d23.git"
+}
